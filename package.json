@@ -1,5 +1,8 @@
 {
   "type": "module",
+  "script": {
+    "test": "jest --coverage"
+  },
   "devDependencies": {
     "@types/jest": "^28.1.8",
     "jest": "^28.1.3",
